@@ -1,5 +1,6 @@
 import { Component } from '@angular/core';
-import { NavController, IonicPage, NavParams, ToastController } from 'ionic-angular';
+// import { NavController, IonicPage, NavParams, ToastController } from 'ionic-angular';
+import { IonicPage, NavParams, ToastController } from 'ionic-angular';
 import { Socket } from 'ng-socket-io';
 import { Observable } from 'rxjs/Observable';
 
